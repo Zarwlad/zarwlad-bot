@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "zarwlad.telegram.api.bot-token",
+      "type": "java.lang.String",
+      "description": "Description for zarwlad.telegram.api.bot-token."
+    },
+    {
+      "name": "zarwlad.telegram.api.bot-username",
+      "type": "java.lang.String",
+      "description": "Description for zarwlad.telegram.api.bot-username."
+    }
+  ] }
