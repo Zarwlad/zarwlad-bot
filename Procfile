@@ -1,1 +1,1 @@
-worker: sh target/bin/zarwlad-bot
+web: java -jar target/zarwlad-bot-0.0.1.jar
