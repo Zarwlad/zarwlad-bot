@@ -1,1 +1,1 @@
-web: java -jar target/zarwlad-bot-0.0.1.jar
+web: java -jar target/zarwlad-bot-0.0.1.jar -Dserver.port=$PORT

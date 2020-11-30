@@ -10,6 +10,3 @@ spring:
     url: ${APP_DB_URL}
     username: ${APP_DB_USERNAME}
     password: ${APP_DB_PASSWORD}
-
-server:
-  port: ${SERVER_PORT:8080}
