@@ -4,7 +4,6 @@ zarwlad:
       bot-token: ${APP_BOT_TOKEN}
       bot-username: ${APP_BOT_USERNAME}
 
----
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
